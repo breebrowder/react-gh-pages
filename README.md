@@ -4,7 +4,7 @@
 
 1. [React intro: Task 7](https://intranet.hbtn.io/projects/1755)
 
-In this repository, I successfully delpoyed a simple react application to GitHub pages using <b>gh-pages</b> branch and <b>create-react-app</b>. The application works correctly when accessing the URL. The source code for the application resides in the <b>main</b> branch.
+In this repository, I practiced deploying a simple react application to GitHub pages using <b>gh-pages</b> branch and <b>create-react-app</b>. The source code for the application resides in the <b>main</b> branch.
 
 [Click to view the React App](https://breebrowder.github.io/react-gh-pages/)
 
